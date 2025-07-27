@@ -63,6 +63,14 @@ Edit
 - 🎨 `labeled_colored_image` – Colorful display of unique paths.
 - 🟢 `labeled_path_image` – Shows the valid path (if exists) in **green**.
 
+
+<p align="center">
+  <img src="demo/demo_1.png" width="30%"/>
+  <img src="demo/demo_2.PNG" width="30%"/>
+  <img src="demo/demo_3.PNG" width="30%"/>
+</p>
+
+
 ---
 
 ## 🔍 Visual Workflow
